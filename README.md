@@ -35,18 +35,10 @@ GIVEN a command-line application that accepts user input
 Clickable link(s): navigate to github, university or local mail client
 ![Click](./supplemental/Click.png?raw=true "Click")
 
-Unit Test Pass Report:
-![Test](./supplemental/Test.png?raw=true "Test")
 
 Desktop View:
 
 ![DesktopView](./supplemental/DesktopView.png?raw=true "DesktopView")
 Laptop View:
-
-![LaptopView](./supplemental/LaptopView.png?raw=true "LaptopView")
-Tablet View:
-
-![TabletView](./supplemental/TabletView.png?raw=true "TabletView")
-Mobile View:
 
 ![MobileView](./supplemental/MobileView.png?raw=true "MobileView")
