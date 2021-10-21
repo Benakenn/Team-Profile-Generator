@@ -31,8 +31,6 @@ GIVEN a command-line application that accepts user input
 
 ## SOLUTION:
 
-🗂️ [Github Repository](https://github.com/cakspri/Team-Profile-Generator)
-
 ## Mock-Up
 Clickable link(s): navigate to github, university or local mail client
 ![Click](./supplemental/Click.png?raw=true "Click")
